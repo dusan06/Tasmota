@@ -2245,7 +2245,11 @@ Discarded input sections
                 0x0000000000000000       0x24 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.xdrv_02_mqtt.ino.408.680
                 0x0000000000000000       0x19 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+<<<<<<< HEAD
  .irom0.pstr.xdrv_01_webserver.ino.3114.658
+=======
+ .irom0.pstr.xdrv_01_webserver.ino.3119.658
+>>>>>>> 847cbd0e57b31ed3166a568622f07443f0a5efe7
                 0x0000000000000000        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.xdrv_01_webserver.ino.945.581
                 0x0000000000000000        0xf .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
@@ -25515,11 +25519,19 @@ END GROUP
                 0x000000004024fe18        0x4 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom.text.xdrv_02_mqtt.ino.44.676
                 0x000000004024fe1c      0x120 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+<<<<<<< HEAD
  .irom.text.xdrv_01_webserver.ino.3141.661
                 0x000000004024ff3c       0x24 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom.text.xdrv_01_webserver.ino.3131.660
                 0x000000004024ff60       0x53 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom.text.xdrv_01_webserver.ino.3129.659
+=======
+ .irom.text.xdrv_01_webserver.ino.3146.661
+                0x000000004024ff3c       0x24 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom.text.xdrv_01_webserver.ino.3136.660
+                0x000000004024ff60       0x53 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom.text.xdrv_01_webserver.ino.3134.659
+>>>>>>> 847cbd0e57b31ed3166a568622f07443f0a5efe7
                 0x000000004024ffb3       0x41 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom.text.xdrv_01_webserver.ino.452.546
                 0x000000004024fff4       0x48 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
@@ -25976,6 +25988,7 @@ END GROUP
                 0x00000000402553b2        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.xdrv_02_mqtt.ino.403.679
                 0x00000000402553ba       0x15 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+<<<<<<< HEAD
  .irom0.pstr.xdrv_01_webserver.ino.3352.675
                 0x00000000402553cf       0x24 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.xdrv_01_webserver.ino.3349.674
@@ -26127,6 +26140,159 @@ END GROUP
                 0x000000004025581d        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
                                          0x11 (size before relaxing)
  .irom0.pstr.xdrv_01_webserver.ino.2444.601
+=======
+ .irom0.pstr.xdrv_01_webserver.ino.3357.675
+                0x00000000402553cf       0x24 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3354.674
+                0x00000000402553f3       0x14 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3351.673
+                0x0000000040255407       0x2c .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3348.672
+                0x0000000040255433       0x2e .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3332.671
+                0x0000000040255461       0x2a .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3328.670
+                0x000000004025548b       0x2c .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3280.669
+                0x00000000402554b7        0xe .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3270.668
+                0x00000000402554c5        0x3 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3268.667
+                0x00000000402554c8        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3267.666
+                0x00000000402554d0        0x2 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3265.665
+                0x00000000402554d2        0xe .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3201.664
+                0x00000000402554e0        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3201.663
+                0x00000000402554e0        0x6 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3200.662
+                0x00000000402554e0       0x38 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3065.657
+                0x0000000040255518        0x6 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3061.656
+                0x000000004025551e       0x15 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3056.655
+                0x0000000040255533        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3051.654
+                0x0000000040255538        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3022.653
+                0x0000000040255540        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3022.652
+                0x0000000040255540        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3020.651
+                0x0000000040255549       0x22 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3009.650
+                0x000000004025556b        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3007.649
+                0x0000000040255574        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                          0x5 (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.3007.648
+                0x0000000040255574        0x4 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.3007.647
+                0x0000000040255578       0x32 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2985.646
+                0x00000000402555aa       0x32 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                          0x3 (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.2982.645
+                0x00000000402555aa       0x32 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                          0x2 (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.2982.644
+                0x00000000402555aa        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2970.643
+                0x00000000402555af        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2965.642
+                0x00000000402555b8        0x3 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2960.641
+                0x00000000402555bb        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2958.640
+                0x00000000402555c3        0x3 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2948.639
+                0x00000000402555c6        0x3 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                          0x8 (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.2946.638
+                0x00000000402555c6        0xd .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2941.637
+                0x00000000402555d3        0x3 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2930.636
+                0x00000000402555d3        0xc .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2921.635
+                0x00000000402555df        0xc .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                          0x9 (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.2919.634
+                0x00000000402555df        0xe .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2908.633
+                0x00000000402555ed       0x22 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2905.632
+                0x000000004025560f       0x22 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                          0x2 (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.2901.631
+                0x000000004025560f        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2888.630
+                0x000000004025560f       0x22 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                          0x2 (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.2883.629
+                0x000000004025560f        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2876.628
+                0x000000004025560f       0x37 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2872.627
+                0x0000000040255646        0x9 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2870.626
+                0x000000004025564f        0x5 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2865.625
+                0x0000000040255654        0xd .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2855.624
+                0x0000000040255661        0xe .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2855.623
+                0x000000004025566f       0x1d .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2854.622
+                0x000000004025568c        0xa .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                0x0000000040255691                _ZZN16esp8266webserver24ESP8266WebServerTemplateI10WiFiServerE13_parseRequestER10WiFiClientE3__c_0
+ .irom0.pstr.xdrv_01_webserver.ino.2854.621
+                0x0000000040255696       0x1d .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2833.620
+                0x00000000402556b3       0x19 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2732.619
+                0x00000000402556cc       0x14 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2699.618
+                0x00000000402556e0       0x12 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2620.617
+                0x00000000402556f2        0xd .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2531.616
+                0x00000000402556ff        0xb .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2525.615
+                0x000000004025570a       0x20 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2518.614
+                0x000000004025572a       0x15 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2513.613
+                0x000000004025573f       0x20 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2511.612
+                0x000000004025575f       0x39 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2506.611
+                0x0000000040255798       0x39 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                          0xc (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.2501.610
+                0x0000000040255798       0x11 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2484.609
+                0x00000000402557a9        0xa .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2479.608
+                0x00000000402557b3       0x41 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2476.607
+                0x00000000402557f4        0xc .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2472.606
+                0x00000000402557f4        0xa .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2470.605
+                0x00000000402557fe        0x2 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2466.604
+                0x0000000040255800       0x15 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2454.603
+                0x0000000040255815        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+ .irom0.pstr.xdrv_01_webserver.ino.2451.602
+                0x000000004025581d        0x8 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
+                                         0x11 (size before relaxing)
+ .irom0.pstr.xdrv_01_webserver.ino.2449.601
+>>>>>>> 847cbd0e57b31ed3166a568622f07443f0a5efe7
                 0x000000004025581d       0x16 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
  .irom0.pstr.xdrv_01_webserver.ino.1388.600
                 0x0000000040255833        0x3 .pio/build/tasmota-minimal/src/tasmota.ino.cpp.o
