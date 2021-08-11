@@ -65,7 +65,7 @@
 #define BOOT_LOOP_OFFSET       1                 // [SetOption36] Number of boot loops before starting restoring defaults (0 = disable, 1..200 = boot loops offset)
 
 // -- Wi-Fi ---------------------------------------
-#define WIFI_IP_ADDRESS        "192.168.0.242"         // [IpAddress1] Set to 0.0.0.0 for using DHCP or enter a static IP address
+#define WIFI_IP_ADDRESS        "192.168.0.241"         // [IpAddress1] Set to 0.0.0.0 for using DHCP or enter a static IP address
 #define WIFI_GATEWAY           "192.168.0.254"     // [IpAddress2] If not using DHCP set Gateway IP address
 #define WIFI_SUBNETMASK        "255.255.255.0"   // [IpAddress3] If not using DHCP set Network mask
 #define WIFI_DNS               "89.216.1.50, 89.216.1.50, 8.8.8.8, 8.8.4.4"     // [IpAddress4] If not using DHCP set DNS IP address (might be equal to WIFI_GATEWAY)
@@ -169,7 +169,7 @@
 // -- HTTP ----------------------------------------
 #define WEB_SERVER             2                 // [WebServer] Web server (0 = Off, 1 = Start as User, 2 = Start as Admin)
 #define WEB_PASSWORD           ""                // [WebPassword] Web server Admin mode Password for WEB_USERNAME (empty string = Disable)
-#define FRIENDLY_NAME          "32TasmCam3"         // [FriendlyName] Friendlyname up to 32 characters used by webpages and Alexa
+#define FRIENDLY_NAME          "32TasmCam1"         // [FriendlyName] Friendlyname up to 32 characters used by webpages and Alexa
 #define EMULATION              EMUL_NONE         // [Emulation] Select Belkin WeMo (single relay/light) or Hue Bridge emulation (multi relay/light) (EMUL_NONE, EMUL_WEMO or EMUL_HUE)
 #define EMULATION_HUE_1ST_GEN  false             // [Emulation] Force SetOption109 1 - if you only have Echo Dot 2nd gen devices
 #define CORS_DOMAIN            ""                // [Cors] CORS Domain for preflight requests
